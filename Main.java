@@ -32,10 +32,6 @@ class Main {
 
     System.out.println("money: " + money);
     System.out.println("cash: " + cash);
-
-  
-    
      
-  
   }
 }
